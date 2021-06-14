@@ -10,6 +10,6 @@ metadata:
     epinio.suse.org/organization: workspace
     epinio.suse.org/service: fleet-service
     epinio.suse.org/service-type: custom
-  name: svc-org-workspace.svc-fleet-service
+  name: service.org-workspace.svc-fleet-service
   namespace: workspace
 type: Opaque
